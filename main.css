@@ -1,0 +1,101 @@
+body {
+	background-color: #F6F7FC!important;
+}
+
+h1 {
+	background-color: #6B78AA!important;
+	color: white;
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-family: 'Chonburi', cursive;;
+	border-bottom-color: #D5D9E8;
+	border-bottom-style: solid;
+	border-bottom-width:3px;
+}
+
+h2 {
+	padding-top: 5px;
+	padding-bottom: 2px;
+	font-family: Fat Face, serif;
+	font-size: 40px!important;
+}
+
+p {
+	font-family: Fat Face, serif;
+	font-size: 18px;
+}
+
+h6 {
+	font-family: Fat Face, serif;
+	font-size: 19px!important;
+}
+
+a {
+	color: #5672FF!important;
+}
+
+a:hover {
+	text-decoration-color: #0000ffff!important;
+	color: #051253!important;
+}
+
+.col-md-8 {
+	padding-top: 10px;
+}
+
+.p1 {
+	padding-top:15px!important;
+}
+
+.datawrapper {
+	padding-left:50px;
+	padding-right: 50px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	max-width:500px;
+	justify-content: center!important;
+	margin-left:auto;
+	margin-right: auto;
+	border-color: grey;
+	border-size: 1px;
+	border-style: solid;
+	background-color: white!important;
+
+}
+
+.col-md-2 {
+	color: #75767A!important;
+}
+
+.caption {
+	text-align:;left
+
+}
+
+.pullquote {
+	font-family: Fat Face, serif;
+	font-style: bold;
+	color: #6B78AA;
+	border-left-style: solid;
+	border-left-color:#6B78AA;
+	border-left-width: 2px;
+	padding-left: 10px;
+	}
+
+.notes {
+	background-color: #CED2E7!important;
+	border-color: #ECEEF8;
+	border-style: dotted;
+	border-width: 2px;
+	padding-top: 10px;
+	padding-right:10px;
+	padding-bottom:10px;
+	padding-left:10px;
+	margin-right: 60px;
+	margin-left:60px;
+	margin-top:50px;
+	margin-bottom: 50px;
+	text-align: center;
+	color:#525254;
+}
